@@ -1,92 +1,92 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    color: #6c6b6b;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
 }
 
 .clearfix:after {
-    display: block;
-    content: "";
-    clear: both;
+  display: block;
+  content: "";
+  clear: both;
 }
 
 main {
-    width: 960px;
-    margin: 0 auto;
+  width: 960px;
+  margin: 0 auto;
 }
 
 .list-box {
-    padding: 50px 0;
-    
+  padding: 50px 0;
+  
 }
 
 .list {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .list > li {
-    padding: 20px 0 20px 20px;
+  padding: 20px 0 20px 20px;
 }
 
 .list > li:nth-child(odd) {
-    background-color: #EEEEEE;
+  background-color: #EEEEEE;
 }
 
 .colorbox {
-    padding-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 .colorbox-item {
-    width: 30%;
-    height: 200px;
-    float: left;
+  width: 30%;
+  height: 200px;
+  float: left;
 }
 
 .colorbox-item:nth-child(1) {
-    margin-right: 5%;
-    margin-bottom: 40px;
-    background-color: #FF8400;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: #FF8400;
 }
 
 .colorbox-item:nth-child(2) {
-    margin-right: 5%;
-    margin-bottom: 40px;
-    background-color: #FFDB00;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: #FFDB00;
 }
 
 .colorbox-item:nth-child(3) {
-    background-color: #FFDB00;
+  background-color: #FFDB00;
 }
 
 .colorbox-item:nth-child(4) {
-    margin-right: 5%;
-    margin-bottom: 40px;
-    background-color: #FFDB00;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: #FFDB00;
 }
 
 .colorbox-item:nth-child(5) {
-    margin-right: 5%;
-    margin-bottom: 40px;
-    background-color: #FF8400;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: #FF8400;
 }
 
 .colorbox-item:nth-child(6) {
-    background-color: #FFDB00;
+  background-color: #FFDB00;
 }
 
 .colorbox-item:nth-child(7) {
-    margin-right: 5%;
-    margin-bottom: 40px;
-    background-color: #FFDB00;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: #FFDB00;
 }
 
 .colorbox-item:nth-child(8) {
-    margin-right: 5%;
-    margin-bottom: 40px;
-    background-color: #FFDB00;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  background-color: #FFDB00;
 }
 
 .colorbox-item:nth-child(9) {
-    background-color: #FF8400;
+  background-color: #FF8400;
 }
